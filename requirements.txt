@@ -1,0 +1,6 @@
+flask
+pypdf
+pyHanko
+pyhanko-certvalidator
+cryptography
+pillow
